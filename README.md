@@ -22,7 +22,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/NamrataMcode09/Data-Analysis.git
+    git clone https://github.com/Kunal-Chakane/Exploratory-Data-Analysis.git
     ```
 
 2. Navigate to the project directory:
